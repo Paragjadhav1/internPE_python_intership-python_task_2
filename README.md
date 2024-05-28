@@ -1,0 +1,2 @@
+# internPE_python_intership-python_task_2
+Task_02
